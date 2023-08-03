@@ -20,7 +20,7 @@ Zomato Landing Page is a static webpage designed to showcase the key features of
 
 ## Demo
 
-You can view a live demo of the Zomato Landing Page [here](https://your-demo-link.com). <!-- Replace "https://your-demo-link.com" with the actual link to your live demo -->
+You can view a live demo of the Zomato Landing Page [here](https://zomato-landing-page-first.netlify.app/). <!-- Replace "https://your-demo-link.com" with the actual link to your live demo -->
 
 ## Features
 
