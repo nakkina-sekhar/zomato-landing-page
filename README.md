@@ -1,6 +1,6 @@
  # Zomato Landing Page
 
-![Zomato Landing Page](link-to-screenshot.png) <!-- Replace "link-to-screenshot.png" with the actual link to your project's screenshot -->
+![Zomato Landing Page](https://github.com/nakkina-sekhar/zomato-landing-page/tree/main/zomatoPage-screenshots) <!-- Replace "link-to-screenshot.png" with the actual link to your project's screenshot -->
 
 This is a simple landing page for Zomato, a popular online food delivery platform. The landing page is built using HTML and CSS.
 
