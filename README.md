@@ -7,11 +7,11 @@ Welcome to the Zomzto Landing Page project! This repository contains the code fo
 - (#introduction)
 - (#features)
 - (#getting-started)
-  -(#prerequisites)
-  -(#installation)
+   -(#prerequisites)
+   -(#installation)
 - (#usage)
 - (#contributing)
-  -(#license)
+-(#license)
 
 ## Introduction
 
