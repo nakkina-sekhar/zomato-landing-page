@@ -1,26 +1,28 @@
  # Zomato Landing Page
 
-![Zomato Landing Page](https://github.com/nakkina-sekhar/zomato-landing-page/tree/main/zomatoPage-screenshots) <!-- Replace "link-to-screenshot.png" with the actual link to your project's screenshot -->
-
 This is a simple landing page for Zomato, a popular online food delivery platform. The landing page is built using HTML and CSS.
 
 ## Table of Contents
 
-- (#introduction)
-- (#demo)
-- (#features)
-- (#installation)
-- (#usage)
-- (#contributing)
-- (#license)
+- Introduction
+- website
+- demo
+- features
+- installation
+- usage
+- contributing
+- license
 
 ## Introduction
 
 Zomato Landing Page is a static webpage designed to showcase the key features of Zomato and encourage users to explore the platform further. It includes a visually appealing layout, enticing images, and a call-to-action button to encourage user engagement.
 
+## Website
+Screenshots click [here](https://github.com/nakkina-sekhar/zomato-landing-page/tree/main/zomatoPage-screenshots)
+
 ## Demo
 
-You can view a live demo of the Zomato Landing Page [here](https://zomato-landing-page-first.netlify.app/). <!-- Replace "https://your-demo-link.com" with the actual link to your live demo -->
+You can view a live demo of the Zomato Landing Page [here](https://zomato-landing-page-first.netlify.app/).
 
 ## Features
 
