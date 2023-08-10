@@ -22,7 +22,7 @@ Screenshots click [here](https://github.com/nakkina-sekhar/zomato-landing-page/t
 
 ## Demo
 
-You can view a live demo of the Zomato Landing Page [here](https://zomato-landing-page-first.netlify.app/).
+You can view a live demo of the Zomato Landing Page  [here](https://zomato-landing-page-first.netlify.app/).
 
 ## Features
 
